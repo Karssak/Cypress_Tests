@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "This repository contains end-to-end (E2E) tests written using Cypress.js. Made by Karssak (Yehor Riabtsev). </br> Also, bonus tests were made, which were not in the technical specification.",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  }
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.14.1"
+  }
+}
