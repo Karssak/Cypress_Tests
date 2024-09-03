@@ -1,7 +1,8 @@
 # Cypress Tests
 
 This repository contains end-to-end (E2E) tests written using Cypress.js. Made by Karssak (Yehor Riabtsev). </br>
-Also, bonus tests were made, which were not in the technical specification.
+Also, bonus tests were made, which were not in the technical specification. </br>
+
 
 ## Table of Contents
 
@@ -23,6 +24,8 @@ npm install
 
 npx cypress open
 ```
+
+**I advise using Electron for tests**
 
 ## Test Scenarios
 
